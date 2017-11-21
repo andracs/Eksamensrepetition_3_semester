@@ -1,4 +1,4 @@
-# Eksamensrepetition_3_semester
+# Eksamensrepetition 3. semester DAT 2017
 
 Denne repo indeholder kodeeksempler på de emner, vi har gennemgået i undervisningen på 3. semester:
 
