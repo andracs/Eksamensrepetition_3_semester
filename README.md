@@ -10,3 +10,4 @@ Denne repo indeholder kodeeksempler på de emner, vi har gennemgået i undervisn
 5. CSS - Styling af tabeller
 6. Chrome extensions
 
+World database kan hentes på https://dev.mysql.com/doc/index-other.html 
